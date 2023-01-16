@@ -13,7 +13,27 @@ By going through this thorough data cleaning process, we were able to uncover mo
 Charts from EDA
 - Count of subcategory
 ![image](https://user-images.githubusercontent.com/109746137/212703776-00634514-1500-4b94-9859-3d0e402223a7.png)
-- ![image](https://user-images.githubusercontent.com/109746137/212704012-730720a4-cd34-404d-bd7f-6a8bff88a503.png)
+
+- Most Preferred shipmode
+![image](https://user-images.githubusercontent.com/109746137/212704012-730720a4-cd34-404d-bd7f-6a8bff88a503.png)
+
+- Segment
+![image](https://user-images.githubusercontent.com/109746137/212704294-16feaf72-fb8a-460d-8f6d-0e9a49ca751d.png)
+
+- City
+![image](https://user-images.githubusercontent.com/109746137/212704575-de72decd-ede2-4f22-97df-08a824f04bb8.png)
+
+- State
+![image](https://user-images.githubusercontent.com/109746137/212704626-05d573a4-8bc6-4d01-943c-5884075d0645.png)
+
+- Region
+![image](https://user-images.githubusercontent.com/109746137/212704704-91f41f23-ef6c-4ca5-b543-fc6e31fc756d.png)
+
+- Category
+![image](https://user-images.githubusercontent.com/109746137/212704795-c3cb8bf4-486b-4ac7-8b13-546937fe111d.png)
+
+-Subcategory
+![image](https://user-images.githubusercontent.com/109746137/212704891-645f604b-3daa-4120-b5b2-b07d0dc3ea06.png)
 
 FINDINGS, RECOMMENDATIONS AND CONCLUSIONS
 - On analyzing the Super Store's sales and profitability data, it was found that the Technology sub-category and specific products such as Phones and Chairs are our highest selling and most profitable items. To offset losses from less profitable products such as Bookcases and Tables, I recommend bundling them with the high-performing items.
