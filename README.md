@@ -13,9 +13,11 @@ By going through this thorough data cleaning process, we were able to uncover mo
 Analysis Insights from EDA
 
 - Count of subcategory
+
 ![image](https://user-images.githubusercontent.com/109746137/212703776-00634514-1500-4b94-9859-3d0e402223a7.png)
 
 - Most Preferred shipmode
+
 ![image](https://user-images.githubusercontent.com/109746137/212704012-730720a4-cd34-404d-bd7f-6a8bff88a503.png)
 
 - Segment
