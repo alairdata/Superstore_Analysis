@@ -12,6 +12,8 @@ By going through this thorough data cleaning process, we were able to uncover mo
 
 FINDINGS, RECOMMENDATIONS AND CONCLUSIONS
 On analyzing the Super Store's sales and profitability data, it was found that the Technology sub-category and specific products such as Phones and Chairs are our highest selling and most profitable items. To offset losses from less profitable products such as Bookcases and Tables, I recommend bundling them with the high-performing items.
+![image](https://user-images.githubusercontent.com/109746137/212701865-61e2f8f4-9656-423b-afaa-ce088341ee11.png)
+![image](https://user-images.githubusercontent.com/109746137/212701896-a011dbd4-9bc8-478d-add3-9ad3e55dd69d.png)
 
 For customers looking for a home office setup, I suggest creating a package deal that includes a variety of office essentials such as a table, chairs, phone, copiers, storage, labels, fasteners, and bookcases. This is a great option for customers who are busy and may not have the time to select individual products.
 
@@ -19,7 +21,10 @@ To address the issue of losses from selling Supplies, Bookcases, and Tables, I r
 
 Our customer base is primarily made up of Consumer and Corporate segments, which make up over 70% of our customers. To target these segments, I suggest offering special promotions and bundles for mass Consumer and Home Offices in the top 10 cities with the highest sales, and sending promotional emails or flyers to customers in the East and West regions.
 
-The main reason for losses is discounts. To improve this, I recommend offering more discounts during festival seasons, as this will result in more sales. Additionally, the home office segment needs improvement. In some cities, we have fewer sales, which may be due to a lack of awareness. Advertising in these cities may help increase sales.
+The main reason for losses is discounts. To improve this, I recommend offering more discounts during festival seasons, as this will result in more sales. During these seasons, the discount rate is recommended to be not more 20% as more than a 20% discount brings in great losses.
+![image](https://user-images.githubusercontent.com/109746137/212701635-8cfdf25d-28ac-46ce-8e8a-780dafd48eeb.png)
+
+Additionally, the home office segment needs improvement. In some cities, we have fewer sales, which may be due to a lack of awareness. Advertising in these cities may help increase sales.
 
 For advertising strategy, in the event that the company wants to run product package promos, I can find the most common items that are usually bought together to inform the company's decision.
 
