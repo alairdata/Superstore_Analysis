@@ -10,6 +10,11 @@ My steps were as follows:
 
 By going through this thorough data cleaning process, we were able to uncover more information that would have been obscured by the inconsistencies and inaccuracies in the raw data. And with this newfound clarity, we were able to take the next step in our investigation and bring the superstore's financial struggles to a close.
 
+Charts from EDA
+- Count of subcategory
+![image](https://user-images.githubusercontent.com/109746137/212703776-00634514-1500-4b94-9859-3d0e402223a7.png)
+- ![image](https://user-images.githubusercontent.com/109746137/212704012-730720a4-cd34-404d-bd7f-6a8bff88a503.png)
+
 FINDINGS, RECOMMENDATIONS AND CONCLUSIONS
 - On analyzing the Super Store's sales and profitability data, it was found that the Technology sub-category and specific products such as Phones and Chairs are our highest selling and most profitable items. To offset losses from less profitable products such as Bookcases and Tables, I recommend bundling them with the high-performing items.
 ![image](https://user-images.githubusercontent.com/109746137/212701865-61e2f8f4-9656-423b-afaa-ce088341ee11.png)
