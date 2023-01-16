@@ -13,7 +13,6 @@ By going through this thorough data cleaning process, we were able to uncover mo
 FINDINGS, RECOMMENDATIONS AND CONCLUSIONS
 - On analyzing the Super Store's sales and profitability data, it was found that the Technology sub-category and specific products such as Phones and Chairs are our highest selling and most profitable items. To offset losses from less profitable products such as Bookcases and Tables, I recommend bundling them with the high-performing items.
 ![image](https://user-images.githubusercontent.com/109746137/212701865-61e2f8f4-9656-423b-afaa-ce088341ee11.png)
-![image](https://user-images.githubusercontent.com/109746137/212701896-a011dbd4-9bc8-478d-add3-9ad3e55dd69d.png)
 
 - For customers looking for a home office setup, I suggest creating a package deal that includes a variety of office essentials such as a table, chairs, phone, copiers, storage, labels, fasteners, and bookcases. This is a great option for customers who are busy and may not have the time to select individual products.
 
