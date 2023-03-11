@@ -1,4 +1,4 @@
-#### Step into the world of a prominent superstore, where everything seemed to be running smoothly - sales were soaring and customers were flooding through the doors. But behind the scenes, a mystery was brewing. Despite these impressive numbers, the store was grappling with a huge financial loss. An investigation as a data analyst was launched to uncover the truth, and what I uncovered will shock you. Join me as I delve deep into years of data, unraveling the hidden story behind the store's struggles and uncovering the clues that will lead to a dramatic turnaround. Get ready to be enthralled in an epic tale of discovery, where the truth was stranger than fiction 
+#### --- Step into the world of a prominent superstore, where everything seemed to be running smoothly - sales were soaring and customers were flooding through the doors. But behind the scenes, a mystery was brewing. Despite these impressive numbers, the store was grappling with a huge financial loss. An investigation as a data analyst was launched to uncover the truth, and what I uncovered will shock you. Join me as I delve deep into years of data, unraveling the hidden story behind the store's struggles and uncovering the clues that will lead to a dramatic turnaround. Get ready to be enthralled in an epic tale of discovery, where the truth was stranger than fiction 
 
 Following my previous discovery in the superstore's data, I took the next step in understanding the issue by performing data cleaning.
 My steps were as follows:
@@ -60,5 +60,3 @@ FINDINGS, RECOMMENDATIONS AND CONCLUSIONS
 ![image](https://user-images.githubusercontent.com/109746137/212701635-8cfdf25d-28ac-46ce-8e8a-780dafd48eeb.png)
 
 - Additionally, the home office segment needs improvement. In some cities, we have fewer sales, which may be due to a lack of awareness. Advertising in these cities may help increase sales. For advertising strategy, in the event that the company wants to run product package promos, It is advised that the most common items that are usually bought together to inform the company's decision.
-
-Please note that this is just a summary of my findings and the full overview can be found in the Jupyter notebook through the lines of code available.
